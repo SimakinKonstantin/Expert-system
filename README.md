@@ -9,4 +9,7 @@
 
 ## Инструкция по запуску
 1. Через cli: `swipl -s .\consult.pl -g start -t halt`;
-2. Через онлайн IDE (https://swish.swi-prolog.org/): в поле ввода ввести `start` и запустить. 
+2. Через онлайн IDE (https://swish.swi-prolog.org/): в поле ввода ввести `start` и запустить.
+
+## Пример работы
+<img width="947" height="758" alt="image" src="https://github.com/user-attachments/assets/fbe2eb6b-3bc0-42f5-94f3-5c3d9d163fda" />
